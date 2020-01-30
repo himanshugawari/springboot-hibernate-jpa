@@ -14,7 +14,7 @@ values(402,'B123456');
 insert into Passport(id,number)
 values(403,'C123456');
 insert into Passport(id,number)
-values(404,'D123456');
+values(404,'D133456');
 
 insert into Student(id,name,passport_id)
 values(201,'Himanshu',401);
